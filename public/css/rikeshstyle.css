@@ -1,0 +1,22 @@
+.account--userInfo  {
+	display: flex;
+    background: #ccc;
+    padding: 10px;
+}
+.grouplist .desktop-grouplist ul li a{
+        display: flex;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+    
+}
+.grouplist .desktop-grouplist ul li a i{
+    margin-right:10px;
+}
+/*override*/
+.modal-content{
+    border-radius:0;
+}
+ .uk-offcanvas-bar .uk-nav-primary>li>a{
+     font-size:1rem;
+ }
